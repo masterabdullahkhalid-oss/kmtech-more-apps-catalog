@@ -1,0 +1,8 @@
+﻿title=Flashlight Torch Light & Alert
+description=Torch, strobe, SOS, alerts, and smart flashlight controls.
+packageName=com.km.clicktoglowblink
+playStoreUrl=https://play.google.com/store/apps/details?id=com.km.clicktoglowblink
+status=production
+featured=false
+enabled=true
+iconKey=catalog_flashlight_torch_light_alert

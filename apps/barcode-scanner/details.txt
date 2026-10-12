@@ -1,0 +1,8 @@
+﻿title=Barcode Scanner QR Code Reader
+description=Scan QR codes and barcodes quickly with a clean camera UI.
+packageName=com.barcodescanner.qrcodereaders
+playStoreUrl=https://play.google.com/store/apps/details?id=com.barcodescanner.qrcodereaders
+status=production
+featured=false
+enabled=true
+iconKey=catalog_barcode_scanner_qr

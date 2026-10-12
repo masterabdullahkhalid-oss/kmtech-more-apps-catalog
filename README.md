@@ -1,39 +1,46 @@
 # KM Tech — More Apps Catalog
 
-Remote catalog for **More Apps by Khalid Mustafa Tech** (used by KM Status Saver and sibling Play apps).
+Har app ka **apna folder** — icon + details text. Easy for Khalid Mustafa Tech apps.
 
-## Edit apps
-
-1. Open [`more_apps_catalog.json`](more_apps_catalog.json)
-2. Add / edit / change `status`:
-   - `production` — published on Play (Install / Open)
-   - `closed_testing` — closed testing / coming soon section
-3. Commit on `main`
-
-Apps refresh in the client via CDN (no Play Store app update required for list changes).
-
-## Fields
-
-| Field | Required | Notes |
-|-------|----------|--------|
-| `title` | yes | App name |
-| `description` | yes | Short line |
-| `packageName` | yes | Play package id |
-| `playStoreUrl` | yes | Store listing HTTPS URL |
-| `iconKey` | yes | Local drawable name in the Android apps (e.g. `catalog_arrow_game`) |
-| `iconUrl` | no | Optional remote image URL (future) |
-| `status` | yes | `production` or `closed_testing` |
-| `featured` | no | Highlight badge |
-| `enabled` | no | Default `true`; set `false` to hide without deleting |
-
-## CDN URL (app uses this)
+## Structure
 
 ```
-https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/more_apps_catalog.json
+apps/
+  index.txt                 ← app folders ki list (order yahan se)
+  video-to-mp3/
+    details.txt             ← title, link, status, …
+    icon.png                ← aap paste karo (512×512)
+  image-to-pdf/
+    details.txt
+    icon.png
+  _TEMPLATE_NEW_APP/        ← nayi app ke liye copy karo
 ```
 
-Raw GitHub fallback:
+## Nayi app add (3 steps)
+
+1. `_TEMPLATE_NEW_APP` copy karke naya naam do (e.g. `my-cool-app`)
+2. Us folder mein:
+   - `icon.png` paste
+   - `details.txt` edit (`title`, `packageName`, `playStoreUrl`, `status`)
+3. `apps/index.txt` mein naye folder ka naam **ek line** pe add karo  
+4. GitHub pe Upload / Commit
+
+### `status` values
+- `production` → Play pe published (Install / Open)
+- `closed_testing` → Coming soon / closed testing section
+
+## CDN (app uses this)
+
+- Index: `https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/index.txt`
+- Details: `.../apps/<folder>/details.txt`
+- Icon: `.../apps/<folder>/icon.png`
+
+Legacy single-file (optional backup): `more_apps_catalog.json`
+
+## Local clone (easy editing)
 
 ```
-https://raw.githubusercontent.com/masterabdullahkhalid-oss/kmtech-more-apps-catalog/main/more_apps_catalog.json
+git clone https://github.com/masterabdullahkhalid-oss/kmtech-more-apps-catalog.git
 ```
+
+Desktop pe folder kholo → icons paste → `git add` → `git commit` → `git push`

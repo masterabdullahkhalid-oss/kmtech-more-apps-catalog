@@ -1,0 +1,8 @@
+﻿title=Video to MP3 Converter
+description=Extract high-quality MP3 audio from your video files.
+packageName=com.km.audioextractor360
+playStoreUrl=https://play.google.com/store/apps/details?id=com.km.audioextractor360
+status=production
+featured=false
+enabled=true
+iconKey=catalog_video_to_mp3_converter

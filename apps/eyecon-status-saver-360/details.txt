@@ -1,0 +1,8 @@
+﻿title=Eyecon Status Saver 360
+description=Save and manage WhatsApp & Business statuses in one place.
+packageName=com.km.statussaver360
+playStoreUrl=https://play.google.com/store/apps/details?id=com.km.statussaver360
+status=production
+featured=false
+enabled=true
+iconKey=catalog_eyecon_status_saver_360

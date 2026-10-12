@@ -1,0 +1,8 @@
+﻿ICON YAHAN PASTE KARO
+=====================
+Is folder mein apni app ka icon rakhain:
+
+  icon.png   (best: 512x512 PNG)
+
+Phir GitHub pe Upload / commit karain.
+Apps screen pe yeh icon CDN se load hoga.

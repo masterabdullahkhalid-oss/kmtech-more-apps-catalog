@@ -1,0 +1,8 @@
+﻿title=Image to PDF Converter & OCR
+description=Convert photos to PDF, scan documents, and extract text with OCR.
+packageName=km.tech.imagetopdfconverterocr
+playStoreUrl=https://play.google.com/store/apps/details?id=km.tech.imagetopdfconverterocr
+status=production
+featured=true
+enabled=true
+iconKey=catalog_image_to_pdf_converter_ocr
