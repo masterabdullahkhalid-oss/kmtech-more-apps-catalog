@@ -4,5 +4,5 @@ packageName=UPDATE_ME
 playStoreUrl=https://play.google.com/store/apps/details?id=UPDATE_ME
 status=closed_testing
 featured=false
-enabled=true
+enabled=false
 iconKey=

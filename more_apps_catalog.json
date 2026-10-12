@@ -1,87 +1,146 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-10-12",
   "developerPageUrl": "https://play.google.com/store/apps/developer?id=Khalid+Mustafa+Tech",
+  "source": "synced-from-apps-folders",
   "apps": [
     {
       "title": "Image to PDF Converter & OCR",
       "description": "Convert photos to PDF, scan documents, and extract text with OCR.",
       "packageName": "km.tech.imagetopdfconverterocr",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=km.tech.imagetopdfconverterocr",
-      "iconKey": "catalog_image_to_pdf_converter_ocr",
       "status": "production",
       "featured": true,
-      "enabled": true
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/image-to-pdf/icon.png",
+      "iconKey": "catalog_image_to_pdf_converter_ocr"
     },
     {
       "title": "Arrow Game: Maze Escape Puzzle",
-      "description": "Relaxing arrow maze puzzles — tap arrows, solve logic grids, and clear every board.",
+      "description": "Relaxing arrow maze puzzles - tap arrows, solve logic grids, and clear every board.",
       "packageName": "com.kmtech.arrows",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kmtech.arrows",
-      "iconKey": "catalog_arrow_game",
       "status": "production",
       "featured": false,
-      "enabled": true
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/arrow-game/icon.png",
+      "iconKey": "catalog_arrow_game"
     },
     {
       "title": "Barcode Scanner QR Code Reader",
       "description": "Scan QR codes and barcodes quickly with a clean camera UI.",
       "packageName": "com.barcodescanner.qrcodereaders",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.barcodescanner.qrcodereaders",
-      "iconKey": "catalog_barcode_scanner_qr",
       "status": "production",
       "featured": false,
-      "enabled": true
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/barcode-scanner/icon.png",
+      "iconKey": "catalog_barcode_scanner_qr"
     },
     {
       "title": "Video Splitter & Cutter 360",
       "description": "Split and cut videos with precision for status and sharing.",
       "packageName": "com.km.videosplitter360",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.km.videosplitter360",
-      "iconKey": "catalog_video_splitter_cutter_360",
       "status": "production",
       "featured": false,
-      "enabled": true
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/video-splitter-360/icon.png",
+      "iconKey": "catalog_video_splitter_cutter_360"
     },
     {
       "title": "Video to MP3 Converter",
       "description": "Extract high-quality MP3 audio from your video files.",
       "packageName": "com.km.audioextractor360",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.km.audioextractor360",
-      "iconKey": "catalog_video_to_mp3_converter",
       "status": "production",
       "featured": false,
-      "enabled": true
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/video-to-mp3/icon.png",
+      "iconKey": "catalog_video_to_mp3_converter"
     },
     {
-      "title": "Eyecon 360 – WA Click to Chat",
+      "title": "Eyecon 360 - WA Click to Chat",
       "description": "Message WhatsApp numbers without saving contacts.",
       "packageName": "com.km.eyecon360",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.km.eyecon360",
-      "iconKey": "catalog_eyecon_360_wa_click_to_chat",
       "status": "production",
       "featured": false,
-      "enabled": true
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/eyecon-360/icon.png",
+      "iconKey": "catalog_eyecon_360_wa_click_to_chat"
     },
     {
       "title": "Eyecon Status Saver 360",
       "description": "Save and manage WhatsApp & Business statuses in one place.",
       "packageName": "com.km.statussaver360",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.km.statussaver360",
-      "iconKey": "catalog_eyecon_status_saver_360",
       "status": "production",
       "featured": false,
-      "enabled": true
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/eyecon-status-saver-360/icon.png",
+      "iconKey": "catalog_eyecon_status_saver_360"
     },
     {
       "title": "Flashlight Torch Light & Alert",
       "description": "Torch, strobe, SOS, alerts, and smart flashlight controls.",
       "packageName": "com.km.clicktoglowblink",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.km.clicktoglowblink",
-      "iconKey": "catalog_flashlight_torch_light_alert",
       "status": "production",
       "featured": false,
-      "enabled": true
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/flashlight-alert/icon.png",
+      "iconKey": "catalog_flashlight_torch_light_alert"
+    },
+    {
+      "title": "LedgerX 360",
+      "description": "Simple money tracking and ledger for everyday accounts.",
+      "packageName": "com.ledgerx360",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.ledgerx360&hl=en",
+      "status": "production",
+      "featured": false,
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/ledger-x-360/icon.png"
+    },
+    {
+      "title": "Noteora Notes",
+      "description": "Clean notes app for quick capture, labels, and organization.",
+      "packageName": "com.km.noteora",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.km.noteora&hl=en",
+      "status": "production",
+      "featured": false,
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/noteora-notes/icon.png"
+    },
+    {
+      "title": "Sink Hole - Teeter Tilt Maze",
+      "description": "Tilt maze puzzle - guide the ball and avoid the sink hole.",
+      "packageName": "com.sinkhole.teeter",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.sinkhole.teeter&hl=en",
+      "status": "production",
+      "featured": false,
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/sink-hole-teeter/icon.png"
+    },
+    {
+      "title": "TalkKeep - Call Recorder",
+      "description": "Record and manage calls with a simple, reliable recorder.",
+      "packageName": "com.khalidmustafatech.talkkeep",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.khalidmustafatech.talkkeep",
+      "status": "closed_testing",
+      "featured": false,
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/talkkeep-call-recorder/icon.png"
+    },
+    {
+      "title": "Voice Reader AI Text to Audio",
+      "description": "Turn text into natural speech with AI voices.",
+      "packageName": "com.Kmtech.voicereaderai",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.Kmtech.voicereaderai",
+      "status": "closed_testing",
+      "featured": false,
+      "enabled": true,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/masterabdullahkhalid-oss/kmtech-more-apps-catalog@main/apps/voice-reader-ai/icon.png"
     }
   ]
 }
