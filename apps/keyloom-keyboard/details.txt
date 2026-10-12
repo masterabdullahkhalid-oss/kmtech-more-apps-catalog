@@ -1,0 +1,8 @@
+title=Keyloom Keyboard
+description=Private multilingual keyboard with themes and smart typing.
+packageName=UPDATE_ME
+playStoreUrl=https://play.google.com/store/apps/details?id=UPDATE_ME
+status=closed_testing
+featured=false
+enabled=true
+iconKey=

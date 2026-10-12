@@ -1,0 +1,8 @@
+title=Voice Reader AI Text to Audio
+description=Turn text into natural speech with AI voices.
+packageName=com.Kmtech.voicereaderai
+playStoreUrl=https://play.google.com/store/apps/details?id=com.Kmtech.voicereaderai
+status=closed_testing
+featured=false
+enabled=true
+iconKey=

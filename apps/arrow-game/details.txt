@@ -1,5 +1,5 @@
-﻿title=Arrow Game: Maze Escape Puzzle
-description=Relaxing arrow maze puzzles — tap arrows, solve logic grids, and clear every board.
+title=Arrow Game: Maze Escape Puzzle
+description=Relaxing arrow maze puzzles - tap arrows, solve logic grids, and clear every board.
 packageName=com.kmtech.arrows
 playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.arrows
 status=production

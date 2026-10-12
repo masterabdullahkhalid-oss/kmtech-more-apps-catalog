@@ -1,4 +1,4 @@
-﻿title=Video Splitter & Cutter 360
+title=Video Splitter & Cutter 360
 description=Split and cut videos with precision for status and sharing.
 packageName=com.km.videosplitter360
 playStoreUrl=https://play.google.com/store/apps/details?id=com.km.videosplitter360

@@ -1,0 +1,8 @@
+title=TalkKeep - Call Recorder
+description=Record and manage calls with a simple, reliable recorder.
+packageName=com.khalidmustafatech.talkkeep
+playStoreUrl=https://play.google.com/store/apps/details?id=com.khalidmustafatech.talkkeep
+status=closed_testing
+featured=false
+enabled=true
+iconKey=

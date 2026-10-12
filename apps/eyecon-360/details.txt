@@ -1,4 +1,4 @@
-﻿title=Eyecon 360 – WA Click to Chat
+title=Eyecon 360 - WA Click to Chat
 description=Message WhatsApp numbers without saving contacts.
 packageName=com.km.eyecon360
 playStoreUrl=https://play.google.com/store/apps/details?id=com.km.eyecon360

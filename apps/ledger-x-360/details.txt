@@ -1,0 +1,8 @@
+title=LedgerX 360
+description=Simple money tracking and ledger for everyday accounts.
+packageName=com.ledgerx360
+playStoreUrl=https://play.google.com/store/apps/details?id=com.ledgerx360&hl=en
+status=production
+featured=false
+enabled=true
+iconKey=

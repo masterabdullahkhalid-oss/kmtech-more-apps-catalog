@@ -1,0 +1,8 @@
+title=Sink Hole - Teeter Tilt Maze
+description=Tilt maze puzzle - guide the ball and avoid the sink hole.
+packageName=com.sinkhole.teeter
+playStoreUrl=https://play.google.com/store/apps/details?id=com.sinkhole.teeter&hl=en
+status=production
+featured=false
+enabled=true
+iconKey=
