@@ -1,0 +1,7 @@
+title=PinGrab – Video & Image Saver
+description=Download Pinterest videos and image pins quickly.
+packageName=com.kmtech.pingrab
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.pingrab
+status=closed_testing
+featured=false
+enabled=true

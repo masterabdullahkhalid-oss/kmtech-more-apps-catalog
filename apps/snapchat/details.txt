@@ -1,0 +1,7 @@
+title=SnapGrab – Video Downloader
+description=Download & save public Snapchat Spotlight videos.
+packageName=com.kmtech.snapgrab
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.snapgrab
+status=closed_testing
+featured=false
+enabled=true

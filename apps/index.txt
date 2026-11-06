@@ -21,3 +21,6 @@ redgrab
 liksaver
 all-video-downloader
 status-saver
+threads
+pinterest
+snapchat
