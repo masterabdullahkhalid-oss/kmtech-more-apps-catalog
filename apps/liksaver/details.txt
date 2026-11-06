@@ -1,0 +1,7 @@
+title=LikSaver Video Downloader
+description=Save Likee videos without watermark in high quality.
+packageName=com.kmtech.liksaver
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.liksaver
+status=closed_testing
+featured=false
+enabled=true

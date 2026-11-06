@@ -1,0 +1,7 @@
+title=All Video Downloader & Saver
+description=One app to download videos from TikTok, Instagram, Facebook, X, Reddit and more.
+packageName=com.kmtech.allvideodownloader
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.allvideodownloader
+status=closed_testing
+featured=false
+enabled=true

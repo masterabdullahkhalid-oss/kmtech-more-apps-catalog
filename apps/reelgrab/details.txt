@@ -1,0 +1,7 @@
+title=ReelGrab – Reels & Video Saver
+description=Save Instagram reels, videos and photos quickly.
+packageName=com.kmtech.reelgrab
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.reelgrab
+status=closed_testing
+featured=false
+enabled=true

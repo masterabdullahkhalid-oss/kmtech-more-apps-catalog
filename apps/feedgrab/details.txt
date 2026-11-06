@@ -1,0 +1,7 @@
+title=FeedGrab – Video Downloader
+description=Download & save Facebook videos and reels in high quality.
+packageName=com.kmtech.feedgrab
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.feedgrab
+status=closed_testing
+featured=false
+enabled=true

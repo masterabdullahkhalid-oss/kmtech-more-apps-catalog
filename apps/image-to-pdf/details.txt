@@ -1,8 +1,8 @@
-title=Image to PDF Converter & OCR
-description=Convert photos to PDF, scan documents, and extract text with OCR.
+title=AllDocs – PDF & File Toolkit
+description=All-in-one document toolkit: images to PDF, scan, OCR text extraction, compress, merge, split and convert files.
 packageName=km.tech.imagetopdfconverterocr
 playStoreUrl=https://play.google.com/store/apps/details?id=km.tech.imagetopdfconverterocr
-status=production
+status=closed_testing
 featured=true
 enabled=true
 iconKey=catalog_image_to_pdf_converter_ocr

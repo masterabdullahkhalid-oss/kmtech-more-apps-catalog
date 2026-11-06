@@ -1,0 +1,7 @@
+title=Status Saver - Download Share
+description=Save WhatsApp statuses — photos and videos — and share them easily.
+packageName=com.kmtech.statussaver
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.statussaver
+status=closed_testing
+featured=false
+enabled=true
