@@ -25,3 +25,4 @@ threads
 pinterest
 snapchat
 screen-recorder-pro-x
+arrow-maze-zig-arrow

@@ -1,0 +1,7 @@
+title=Arrow Maze - Zig Arrow
+description=Tap the right arrows in order to clear every zig-zag maze board.
+packageName=com.kmtech.arrowmazezig
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.arrowmazezig
+status=closed_testing
+featured=false
+enabled=true
