@@ -24,3 +24,4 @@ status-saver
 threads
 pinterest
 snapchat
+screen-recorder-pro-x
