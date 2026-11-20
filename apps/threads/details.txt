@@ -1,4 +1,4 @@
-title=ThreadsGrab – Video Downloader
+title=ThreadGrab – Video Saver
 description=Download & save Threads videos in high quality.
 packageName=com.kmtech.threadsgrab
 playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.threadsgrab
