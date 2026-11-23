@@ -1,11 +1,9 @@
 # More Apps catalog order
-image-to-pdf
 arrow-game
 barcode-scanner
 video-splitter-360
 video-to-mp3
 eyecon-360
-eyecon-status-saver-360
 flashlight-alert
 ledger-x-360
 noteora-notes
