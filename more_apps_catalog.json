@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-11-24",
   "developerPageUrl": "https://play.google.com/store/apps/developer?id=Khalid+Mustafa+Tech",
   "source": "synced-from-apps-folders",
   "apps": [
     {
-      "title": "Image to PDF Converter & OCR",
-      "description": "Convert photos to PDF, scan documents, and extract text with OCR.",
-      "packageName": "km.tech.imagetopdfconverterocr",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=km.tech.imagetopdfconverterocr",
+      "title": "AllDocs – PDF & File Toolkit",
+      "description": "All-in-one document toolkit: images to PDF, scan, OCR text extraction, compress, merge, split and convert files.",
+      "packageName": "km.tech.alldocs",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=km.tech.alldocs",
       "status": "production",
       "featured": true,
       "enabled": true,
