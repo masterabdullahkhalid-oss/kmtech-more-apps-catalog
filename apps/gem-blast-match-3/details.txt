@@ -1,0 +1,8 @@
+title=Gem Blast Match 3
+description=Blast gems and fruits in a bright match-3 adventure - easy to play, hard to put down.
+packageName=com.kmtech.gemblast
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.gemblast
+status=closed_testing
+featured=false
+enabled=true
+iconKey=catalog_gem_blast_match_3

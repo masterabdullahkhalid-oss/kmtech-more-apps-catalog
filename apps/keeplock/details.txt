@@ -1,0 +1,8 @@
+title=KeepLock – App Lock & Privacy
+description=Lock any app with PIN, pattern, password or fingerprint. Intruder selfie, hide notifications, trusted Wi-Fi and anti-uninstall protection.
+packageName=com.kmtech.keeplock
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.keeplock
+status=closed_testing
+featured=false
+enabled=true
+iconKey=catalog_keeplock

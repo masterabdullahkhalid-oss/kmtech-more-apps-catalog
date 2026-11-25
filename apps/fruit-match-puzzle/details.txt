@@ -1,0 +1,8 @@
+title=Fruit Match Puzzle-Juicy Match
+description=Juicy match-3 fruit puzzle - swap, match and blast colorful fruits across hundreds of levels.
+packageName=com.kmtech.fruitmatchpuzzle
+playStoreUrl=https://play.google.com/store/apps/details?id=com.kmtech.fruitmatchpuzzle
+status=closed_testing
+featured=false
+enabled=true
+iconKey=catalog_fruit_match_puzzle

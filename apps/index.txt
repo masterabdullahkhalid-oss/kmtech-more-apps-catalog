@@ -26,3 +26,6 @@ pinterest
 snapchat
 screen-recorder-pro-x
 arrow-maze-zig-arrow
+keeplock
+fruit-match-puzzle
+gem-blast-match-3
